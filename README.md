@@ -2,6 +2,8 @@
 
 Quickly add your timetable into Google Calendar
 
+![alt text](https://github.com/kevin-samson/BITS-Calendar-Maker/blob/main/Screenshot.png?raw=true)
+
 ## Prerequisites
 
 To run this quickstart, you need the following prerequisites:
