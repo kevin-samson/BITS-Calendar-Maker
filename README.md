@@ -44,6 +44,12 @@ Before using Google APIs, you need to turn them on in a Google Cloud project. Yo
 6. Click **OK**. The newly created credential appears under OAuth 2.0 Client IDs.
 7. Save the downloaded JSON file as **credentials.json**, and move the file to your working directory.
 
+### Running the Program (Windows)
+- Download the exe file
+<a href="https://github.com/kevin-samson/BITS-Calendar-Maker/releases/download/v.0.0.1/main.exe" class="button button-primary" target="console">Download exe file</a>
+- Make sure **credentials.json** and **main.exe** are in the same folder
+- Run main.exe
+**Note:** If you get Somthing is wrong error, please copy the link and paste it in an incognito tab and login with your email
 
 
 
