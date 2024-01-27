@@ -14,7 +14,7 @@ SCOPES = [
     "https://www.googleapis.com/auth/calendar.calendarlist",
 ]
 
-CALENDAR_TO_USE = "test_timetable"
+CALENDAR_TO_USE = "Timetable"
 NUM_WEEKS = 22
 
 
