@@ -208,7 +208,7 @@ def main():
         )
         if calender_to_use == "":
             calender_to_use = CALENDAR_TO_USE
-        calendar_id = get_calendar_id(service, CALENDAR_TO_USE)
+        calendar_id = get_calendar_id(service, calender_to_use)
 
         num_weeks = input(
             f"Enter the number of weeks to create events for (default: {NUM_WEEKS}): "
