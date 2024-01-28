@@ -55,7 +55,7 @@ Before using Google APIs, you need to turn them on in a Google Cloud project. Yo
 ### Running the Program (Windows)
 
 - Download the exe file
-  <a href="https://github.com/kevin-samson/BITS-Calendar-Maker/releases/download/v0.0.3/main.exe" class="button button-primary" target="console">Download exe file</a>
+  <a href="https://github.com/kevin-samson/BITS-Calendar-Maker/releases/download/v0.0.4/main.exe" class="button button-primary" target="console">Download exe file</a>
 - Make sure **credentials.json** and **main.exe** are in the same folder
 - Run main.exe
   **Note:** If you get Somthing is wrong error, please copy the link and paste it in an incognito tab and login with your email
